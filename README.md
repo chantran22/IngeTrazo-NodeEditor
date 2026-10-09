@@ -1,4 +1,4 @@
-# IngeTrazo Node Editor (Parametric Visual Modeler)
+# IngeTrazo Node Editor (Visual workflow)
 
 A visual parametric node editor extension for **[IngeTrazo](https://github.com/ingelibre/ingetrazo)** (Python + PySide6 / Qt), bringing Grasshopper / Geometry Nodes style generative modeling into IngeTrazo.
 
